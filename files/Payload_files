@@ -1,0 +1,26 @@
+{
+	"filters":{
+			"op":"and",
+				"content":[
+				{
+				"op":"in",
+				"content":{
+						"field":"cases.project.project_id",
+						"value":"TCGA-LIHC"
+				}
+				},
+				{
+					"op":"=",
+					"content":{
+						"field":"files.data_type",
+						"value":"Gene Expression Quantification"
+					}
+				}
+				]
+			},
+	"format":"tsv",
+	"pretty":"true",
+	"size":"10000",
+	"sort":"submitter_id",
+	"fields":"cases.samples.sample_type,cases.submitter_id,cases.project.project_id,file_name,file_id,data_type,cases.diagnoses.tumor_stage"
+}

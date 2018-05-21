@@ -1,0 +1,205 @@
+{
+  "data": {
+    "hits": [
+      {
+        "data_type": "Gene Expression Quantification", 
+        "updated_datetime": "2017-03-04T16:39:14.644494-06:00", 
+        "file_name": "2a2b0e0f-d54a-4902-8778-500364fcc0c5.FPKM.txt.gz", 
+        "submitter_id": "2a2b0e0f-d54a-4902-8778-500364fcc0c5_fpkm", 
+        "file_id": "63a9c62e-9c98-4d07-a24f-61d0ab385c0e", 
+        "file_size": 521750, 
+        "id": "63a9c62e-9c98-4d07-a24f-61d0ab385c0e", 
+        "created_datetime": "2016-05-29T10:35:05.660738-05:00", 
+        "md5sum": "e7c80e810410c014b57dd24c5d7fd2f6", 
+        "data_format": "TXT", 
+        "acl": [
+          "open"
+        ], 
+        "access": "open", 
+        "state": "live", 
+        "data_category": "Transcriptome Profiling", 
+        "type": "gene_expression", 
+        "file_state": "submitted", 
+        "experimental_strategy": "RNA-Seq"
+      }, 
+      {
+        "data_type": "Gene Expression Quantification", 
+        "updated_datetime": "2017-03-04T16:39:14.644494-06:00", 
+        "file_name": "8ec3195f-156f-4b0a-bcdf-c27ff378c0be.FPKM-UQ.txt.gz", 
+        "submitter_id": "8ec3195f-156f-4b0a-bcdf-c27ff378c0be_uqfpkm", 
+        "file_id": "15899b45-5ce0-4d6e-9873-10dd800d84d9", 
+        "file_size": 498276, 
+        "id": "15899b45-5ce0-4d6e-9873-10dd800d84d9", 
+        "created_datetime": "2016-05-26T21:04:51.581394-05:00", 
+        "md5sum": "4ff2f10eabee8939ad31d6ae57b0654f", 
+        "data_format": "TXT", 
+        "acl": [
+          "open"
+        ], 
+        "access": "open", 
+        "state": "live", 
+        "data_category": "Transcriptome Profiling", 
+        "type": "gene_expression", 
+        "file_state": "submitted", 
+        "experimental_strategy": "RNA-Seq"
+      }, 
+      {
+        "data_type": "Gene Expression Quantification", 
+        "updated_datetime": "2017-03-04T16:39:14.644494-06:00", 
+        "file_name": "b97c1f01-06d4-4f01-beac-6124dfb08545.FPKM.txt.gz", 
+        "submitter_id": "b97c1f01-06d4-4f01-beac-6124dfb08545_fpkm", 
+        "file_id": "9b2216f9-9dc3-40bb-a03e-f6870dfd8db5", 
+        "file_size": 520070, 
+        "id": "9b2216f9-9dc3-40bb-a03e-f6870dfd8db5", 
+        "created_datetime": "2016-05-26T21:04:57.154050-05:00", 
+        "md5sum": "66170b79fac2385f7225b558daf5913c", 
+        "data_format": "TXT", 
+        "acl": [
+          "open"
+        ], 
+        "access": "open", 
+        "state": "live", 
+        "data_category": "Transcriptome Profiling", 
+        "type": "gene_expression", 
+        "file_state": "submitted", 
+        "experimental_strategy": "RNA-Seq"
+      }, 
+      {
+        "data_type": "Gene Expression Quantification", 
+        "updated_datetime": "2017-03-04T16:39:14.644494-06:00", 
+        "file_name": "2a2b0e0f-d54a-4902-8778-500364fcc0c5.htseq.counts.gz", 
+        "submitter_id": "2a2b0e0f-d54a-4902-8778-500364fcc0c5_count", 
+        "file_id": "4635c964-26dc-4acf-aabb-3f5e6fedac67", 
+        "file_size": 254190, 
+        "id": "4635c964-26dc-4acf-aabb-3f5e6fedac67", 
+        "created_datetime": "2016-05-29T10:35:05.297000-05:00", 
+        "md5sum": "7a66c5dba19dcaf06ef326002f0acc50", 
+        "data_format": "TXT", 
+        "acl": [
+          "open"
+        ], 
+        "access": "open", 
+        "state": "live", 
+        "data_category": "Transcriptome Profiling", 
+        "type": "gene_expression", 
+        "file_state": "submitted", 
+        "experimental_strategy": "RNA-Seq"
+      }, 
+      {
+        "data_type": "Gene Expression Quantification", 
+        "updated_datetime": "2017-03-04T16:39:14.644494-06:00", 
+        "file_name": "b97c1f01-06d4-4f01-beac-6124dfb08545.FPKM-UQ.txt.gz", 
+        "submitter_id": "b97c1f01-06d4-4f01-beac-6124dfb08545_uqfpkm", 
+        "file_id": "70952b08-5892-4c31-ae9d-930b527dfa6c", 
+        "file_size": 521541, 
+        "id": "70952b08-5892-4c31-ae9d-930b527dfa6c", 
+        "created_datetime": "2016-05-26T21:04:56.953669-05:00", 
+        "md5sum": "ce547a1321ee57e116270f99a7dfa7cb", 
+        "data_format": "TXT", 
+        "acl": [
+          "open"
+        ], 
+        "access": "open", 
+        "state": "live", 
+        "data_category": "Transcriptome Profiling", 
+        "type": "gene_expression", 
+        "file_state": "submitted", 
+        "experimental_strategy": "RNA-Seq"
+      }, 
+      {
+        "data_type": "Gene Expression Quantification", 
+        "updated_datetime": "2017-03-04T16:39:14.644494-06:00", 
+        "file_name": "b97c1f01-06d4-4f01-beac-6124dfb08545.htseq.counts.gz", 
+        "submitter_id": "b97c1f01-06d4-4f01-beac-6124dfb08545_count", 
+        "file_id": "0b1d60f3-ec48-4266-9092-56c3e9ac4615", 
+        "file_size": 255237, 
+        "id": "0b1d60f3-ec48-4266-9092-56c3e9ac4615", 
+        "created_datetime": "2016-05-26T21:04:56.758733-05:00", 
+        "md5sum": "b1c45b6d9c802017bf2a8f1a97a87bf0", 
+        "data_format": "TXT", 
+        "acl": [
+          "open"
+        ], 
+        "access": "open", 
+        "state": "live", 
+        "data_category": "Transcriptome Profiling", 
+        "type": "gene_expression", 
+        "file_state": "submitted", 
+        "experimental_strategy": "RNA-Seq"
+      }, 
+      {
+        "data_type": "Gene Expression Quantification", 
+        "updated_datetime": "2017-03-04T16:39:14.644494-06:00", 
+        "file_name": "2a2b0e0f-d54a-4902-8778-500364fcc0c5.FPKM-UQ.txt.gz", 
+        "submitter_id": "2a2b0e0f-d54a-4902-8778-500364fcc0c5_uqfpkm", 
+        "file_id": "bff330cf-8fdf-4dad-adfd-035ec4ed9318", 
+        "file_size": 523098, 
+        "id": "bff330cf-8fdf-4dad-adfd-035ec4ed9318", 
+        "created_datetime": "2016-05-29T10:35:05.462301-05:00", 
+        "md5sum": "eac975cbb0605bd5f9c4f32390b54dba", 
+        "data_format": "TXT", 
+        "acl": [
+          "open"
+        ], 
+        "access": "open", 
+        "state": "live", 
+        "data_category": "Transcriptome Profiling", 
+        "type": "gene_expression", 
+        "file_state": "submitted", 
+        "experimental_strategy": "RNA-Seq"
+      }, 
+      {
+        "data_type": "Gene Expression Quantification", 
+        "updated_datetime": "2017-03-04T16:39:14.644494-06:00", 
+        "file_name": "8ec3195f-156f-4b0a-bcdf-c27ff378c0be.htseq.counts.gz", 
+        "submitter_id": "8ec3195f-156f-4b0a-bcdf-c27ff378c0be_count", 
+        "file_id": "96ae23a7-8d7c-4222-a5b3-981b80ee64c8", 
+        "file_size": 244138, 
+        "id": "96ae23a7-8d7c-4222-a5b3-981b80ee64c8", 
+        "created_datetime": "2016-05-26T21:04:51.027139-05:00", 
+        "md5sum": "79c5d36ad5dd336829e48a622f66113f", 
+        "data_format": "TXT", 
+        "acl": [
+          "open"
+        ], 
+        "access": "open", 
+        "state": "live", 
+        "data_category": "Transcriptome Profiling", 
+        "type": "gene_expression", 
+        "file_state": "submitted", 
+        "experimental_strategy": "RNA-Seq"
+      }, 
+      {
+        "data_type": "Gene Expression Quantification", 
+        "updated_datetime": "2017-03-04T16:39:14.644494-06:00", 
+        "file_name": "8ec3195f-156f-4b0a-bcdf-c27ff378c0be.FPKM.txt.gz", 
+        "submitter_id": "8ec3195f-156f-4b0a-bcdf-c27ff378c0be_fpkm", 
+        "file_id": "72972ec9-c648-4dca-9e26-b81c62ffd860", 
+        "file_size": 496826, 
+        "id": "72972ec9-c648-4dca-9e26-b81c62ffd860", 
+        "created_datetime": "2016-05-26T21:04:51.926384-05:00", 
+        "md5sum": "b303ea807fe76e4792d592e1ae816303", 
+        "data_format": "TXT", 
+        "acl": [
+          "open"
+        ], 
+        "access": "open", 
+        "state": "live", 
+        "data_category": "Transcriptome Profiling", 
+        "type": "gene_expression", 
+        "file_state": "submitted", 
+        "experimental_strategy": "RNA-Seq"
+      }
+    ], 
+    "pagination": {
+      "count": 9, 
+      "sort": "", 
+      "from": 0, 
+      "page": 1, 
+      "total": 9, 
+      "pages": 1, 
+      "size": 10
+    }
+  }, 
+  "warnings": {}
+}

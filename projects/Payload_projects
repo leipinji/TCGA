@@ -1,0 +1,12 @@
+{
+	"filters":{
+			"op":"=",
+			"content":{
+				"field":"primary_site",
+				"value":"Liver"
+				}
+		},
+	"format":"tsv",
+	"pretty":"true",
+	"fields":"submitter_id,disease_type,primary_site,name,project_id"
+}
