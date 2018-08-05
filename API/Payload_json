@@ -1,0 +1,27 @@
+{
+	"filters":{
+		"op":"and",
+			"content":[
+			{
+				"op":"in",
+				"content":{
+					"field":"cases.submitter_id",
+					"value":[
+						"TCGA-CK-4948",
+						"TCGA-D1-A17N",
+						"TCGA-4V-A9QX"
+						]
+					}
+			},
+			{
+				"op":"=",
+				"content":{
+					"field":"files.data_type",
+					"value":"Gene Expression Quantification"
+				}
+			}
+		]
+	},
+	"format":"json",
+	"pretty":"true"
+}

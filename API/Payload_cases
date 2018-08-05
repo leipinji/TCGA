@@ -1,0 +1,25 @@
+{
+	"filters":{
+			"op":"and",
+			"content":[
+			{
+				"op":"=",
+				"content":{
+						"field":"project.project_id",
+						"value":"TCGA-LIHC"
+					}
+				},
+				{
+				"op":"=",
+				"content":{
+						"field":"files.data_type",
+						"value":"Gene Expression Quantification"
+					}
+				}
+		]
+		},
+	"format":"tsv",
+	"pretty":"true",
+	"fields":"case_id,project.project_id,submitter_id,samples.sample_type",
+	"size":"1000"
+}
